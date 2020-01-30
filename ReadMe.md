@@ -10,6 +10,9 @@ Here only provide precompiled dll (win32 & x64).
 ## change log
 
 ### 0.9.5
+#### 2020-01-30
+- +. remove debug string, such as SystemUpdate, SCEN_SETFOCUS.
+
 #### 2018-02-06
 - +. x64 version
 
