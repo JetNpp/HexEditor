@@ -10,6 +10,13 @@ Here only provide precompiled dll (win32 & x64).
 ## change log
 
 ### 0.9.5
+#### 2020-10-17 
+- +. fix crash - after update notepad++ to v7.9, HexEditor plugin fire this exception: 
+> Plugin Exception
+>> ---------------------------
+>> An exception occurred due to plugin: HexEditor.dll
+>> Exception reason: Access violation
+
 #### 2020-01-30
 - +. remove debug string, such as SystemUpdate, SCEN_SETFOCUS.
 
